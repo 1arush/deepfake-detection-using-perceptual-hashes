@@ -1,4 +1,5 @@
-File 'noise_plots.ipynb' contains all the code used to generate the plots for noise sensitivity.
+File 'noise_plots.ipynb' contains all the code used to generate the plots for noise sensitivity. All the plots have
+been made using the csv files in the 'csv' directory.
 
 The images follow a naming convention in accordance with those from the images folder. There are 2 types of images:
 - `<image><number>_<noise_type>`
