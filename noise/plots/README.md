@@ -1,7 +1,5 @@
 File 'noise_plots.ipynb' contains all the code used to generate the plots for noise sensitivity.
 
-Each folder represents an image, corresponding to an image from the images folder.
-
 The images follow a naming convention. There are 2 types of images:
 - `<image><number>_<noise_type>`
 - `_<image>_avg_<noise_type>`
