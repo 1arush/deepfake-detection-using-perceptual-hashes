@@ -1,4 +1,4 @@
-# README
+# noise sensitivity
 
 - The script 'add_noise.py' iterates over images and adds noise (uniform and gaussian) to them.
 - The code 'noising.py' is responsible for iterating over the noised and source images, computing hashes using ImageHash
