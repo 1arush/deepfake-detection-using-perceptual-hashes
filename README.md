@@ -2,6 +2,11 @@
 
 This repository contains code and data for various investigations on detecting deepfakes using perceptual hashes.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b49ea59d-53b3-4d68-a192-c565b8bce25d" alt="sample" width="400">
+</p>
+
+
 There are 2 perceptual hashing programs in consideration:
 - Python implementation (https://pypi.org/project/ImageHash/)
 - Scala implementation (https://gist.github.com/Howon/7db1239355841a71ffa9)
