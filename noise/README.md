@@ -8,5 +8,8 @@ writes hamming distances to a similar csv.
 - The code 'noise_plots.ipynb' is used to make all the plots for noise sensitivity, including plots for individual images as well as averages.
 All the plots have been made using the csv files in the 'csv' directory.
 
-
 Note : The csv files for gaussian and uniform noise have been separated for simplification.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c858f6d3-4bd4-45e7-bd76-f078bc0b45bd" alt="noise_sample">
+</p>
