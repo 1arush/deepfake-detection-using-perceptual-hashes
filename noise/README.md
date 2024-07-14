@@ -5,5 +5,6 @@
 and storing the hamming distances in a csv file for further manipulations
 - The code 'noising.scala' does the same as the aforementioned python version, but it makes use of the Scala program. It then
 writes hamming distances to a similar csv.
+- The code 'noise_plots.ipynb' is used to make all the related plots, including plots for individual images as well as averages.
 
 Note : The csv files for gaussian and uniform noise have been separated for simplification.
