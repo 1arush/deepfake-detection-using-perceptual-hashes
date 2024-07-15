@@ -3,7 +3,7 @@
 This repository contains code and data for various investigations on detecting deepfakes using perceptual hashes.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b49ea59d-53b3-4d68-a192-c565b8bce25d" alt="sample" width="400">
+  <img src="https://github.com/user-attachments/assets/67f2d58f-c5db-4578-bc9b-c5dd9e1505a1" alt="sample" width="450">
 </p>
 
 
