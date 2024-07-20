@@ -22,15 +22,18 @@ f1/
 
  - Inside the `lips` folder, there are images such as `base.jpg` and `lipbox.jpg`. `base.jpg` is the full facial image that contains lip modifications, and `lipbox.jpg` is a crop of the lip region made using dlib shape predictor. Each folder contains all the associated images.
 
-## csv
+## CSV
 
 There are 8 csv files, 4 from the python code and 4 from the scala code. The 4 csv files represent 4 different images, which is also a part of the filename itself.
 Here is an example:
 
 `py_f1_face.csv` : made with python code, for face image `f1` 
 
-## plots
+## Plots
 
+There are 4 sub-directories for the 4 images that have been considered. The contain all the plots for modifications done on that face. The modifications follow a similar name as mentioned above.
+
+Additionally, there are some plots which are the average hamming distance plots. They have been created by averaging out the values from all 4 images, and show an improvement in the detection, as improvisations to the detection procedure are made.
 
 
 
