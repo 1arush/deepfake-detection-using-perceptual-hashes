@@ -36,9 +36,9 @@ Here is an example:
 
 ## Plots
 
-There are 4 sub-directories for the 4 images that have been considered. The contain all the plots for modifications done on that face. The modifications follow a similar name as mentioned above.
+There are 4 sub-directories for the 4 images that have been considered. They contain all the plots for modifications done on that face. The modifications follow a similar naming convention as mentioned above in the `Images` section.
 
-Additionally, there are some plots which are the average hamming distance plots. They have been created by averaging out the values from all 4 images, and show an improvement in the detection, as improvisations to the detection procedure are made.
+Additionally, there are some plots which are average hamming distance plots. They have been created by averaging out the values from all 4 images, and show an improvement in the detection, as improvisations to the detection procedure are made. There is one such plot for each modification made (these include both manual and automatic modifications). The automatic modifications usually contain a `_code` at the end of their name.
 
 
 
