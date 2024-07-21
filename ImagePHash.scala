@@ -4,7 +4,7 @@ import java.io.InputStream
 import javax.imageio.ImageIO
 import java.io._
 
-class ImagePHashScala(size: Int = 32, smallerSize: Int= 8){
+class ImagePHashScala(size: Int = 64, smallerSize: Int= 8){
     val c : Array[Double] = {
         val temp = Array.ofDim[Double](size)
         for (i <- 1 to size - 1) {
