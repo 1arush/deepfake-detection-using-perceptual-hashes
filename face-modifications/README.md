@@ -9,6 +9,9 @@
   <img src="https://github.com/user-attachments/assets/c4e946ac-c55a-4a44-af8c-2ca4f2b0a059" alt="sample" width=600>
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d8f97a28-2533-4766-8b8b-dd8c40cad953" alt="sample" width=500>
+</p>
 
 ## Images
 
